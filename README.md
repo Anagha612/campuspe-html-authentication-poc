@@ -1,7 +1,7 @@
 # campuspe-Authentication System Styling
 ##  Features
 - Bootstrap 5 integration
-- Responsive design
+- HTML
 - Clean and professional UI
 - Navigation between pages using anchor tags
 - Custom CSS styling
